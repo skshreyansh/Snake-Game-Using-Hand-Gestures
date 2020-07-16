@@ -56,9 +56,4 @@ function draw(){
 	fill(0,255,0);
 	rect(food.x,food.y,1,1);
 }
-/*
-//  https://storage.googleapis.com/tm-model/D0EOpoU5M/model.json
-//Another better one
-//https://storage.googleapis.com/tm-model/wBH-DiMld/model.json
-//Even better one
-//https://storage.googleapis.com/tm-model/wBH-DiMld/model.json*/
+ 
